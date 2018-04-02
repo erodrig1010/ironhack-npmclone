@@ -1,0 +1,207 @@
+* {
+  font-family: "Open Sans", OpenSans, sans-serif;
+  color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 50px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-left {
+  display: inline-block;
+  margin: 0 20px 0 20px;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.head {
+  background-color: rgb(32,101,136);
+}
+
+#npm-logo {
+  float: left;
+  height: 50px;
+}
+
+.search {
+  height: 50px;
+  float: left;
+  width: 75%;
+  background-color: rgb(31, 82, 111);
+  border: 1px solid white;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 20px;
+}
+
+.sign-up {
+  text-decoration: none;
+  float: left;
+  display: inline-block;
+}
+
+#bear-logo {
+  float: right;
+  height: 50px;
+}
+
+.title-bar {
+  background-color: rgb(32,101,136);
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 150px;
+}
+
+.build-content {
+  width: 50%;
+  margin: 0 auto;
+  background-color: rgb(32,101,136);
+  color: white;
+  position: relative;
+}
+
+.head {
+  background: url(/Users/eleynirodriguez/Downloads/lab-html-module-exercise-master/starter-code/images/city-scape.svg) 0 0 no-repeat;
+  height: 500px;
+}
+
+.orange-button {
+  background-color: rgb(240, 146, 51);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 0px;
+}
+
+
+
+.collaboration {
+  margin: 0 auto;
+  width: 100%;
+  background-color: rgb(39, 53, 71);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.collab-image {
+  width: 25%;
+  float: left;
+  padding-left: 15%;
+  background-color: rgb(39, 53, 71);
+}
+
+.collab-content {
+  margin: 0 auto;
+  padding-right: 15%;
+  float: right;
+  width: 25%;
+  position: relative;
+}
+
+.orgs-button {
+    background-color: rgb(203, 56, 55);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 0px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.what {
+  background: url(/Users/eleynirodriguez/Downloads/lab-html-module-exercise-master/starter-code/images/forklift.svg);
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+}
+
+.what-copy {
+  position: relative;
+  float: left;
+  margin: 0 auto;
+  width: 25%;
+  padding-left: 15%;
+  padding-top: 15%;
+}
+
+.install-button {
+    background-color: rgb(49, 68, 88);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 0px;
+}
+
+.blocks {
+  padding-left: 15%;
+  padding-right: 15%;
+  width: 100%;
+  text-align: center;
+}
+
+.icons {
+  width: 100%;
+}
+
+.width {
+  width: 33%;
+  float: left;
+}
+
+.blocks-text h2 {
+  color: rgb(83, 88, 98);
+}
+
+.blocks-text p {
+  color: rgb(135, 145, 156);
+}
+
+.icons h3 {
+  color: rgb(135, 145, 156);
+}
+
+.icons p {
+  color: rgb(135, 145, 156);
+}
+
+.blocks a {
+  color: rgb(208, 74, 73);
+}
